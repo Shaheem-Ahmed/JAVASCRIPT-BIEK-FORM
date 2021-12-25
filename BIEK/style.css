@@ -1,0 +1,68 @@
+.LOGO{
+    text-align: left;
+}
+
+.NAME{
+    display: inline-block;
+}
+
+.para{
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: silver;
+
+}
+
+.BIO{
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#user{
+    width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border-radius: 150px;
+}
+
+body{
+    background-color: rgb(21, 206, 212);
+}
+
+.SUBMIT{
+    padding: 10px 30px 10px 30px;
+    background-color: red;
+    color: black;
+    font-size: 30px;
+    font-family: 'Lato', sans-serif;
+    margin:auto;
+    display:block;
+}
+
+.HEAD{
+    text-align: center;
+    font-family: 'Fjalla One', sans-serif;
+font-family: 'Mochiy Pop P One', sans-serif;
+text-decoration: underline;
+font-style: italic;
+font-weight:bold ;
+}
+
+.year{
+    padding: 12px 20px;
+}
+
+.checkmark{
+    color: seagreen;
+    background-color: sienna;
+    box-shadow: 5px 10px #888888
+}
+
+.user{
+    width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border-radius: 150px;
+}
